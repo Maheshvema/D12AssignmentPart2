@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-2\ProductsAssignment\ProductsAssignment\bin\Debug\ProductsAssignment.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-2\ProductsAssignment\ProductsAssignment\bin\Debug\ProductsAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-2\ProductsAssignment\ProductsAssignment\bin\Debug\ProductsAssignment.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-2\ProductsAssignment\ProductsAssignment\obj\Debug\ProductsAssignment.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-2\ProductsAssignment\ProductsAssignment\obj\Debug\ProductsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-2\ProductsAssignment\ProductsAssignment\obj\Debug\ProductsAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-2\ProductsAssignment\ProductsAssignment\obj\Debug\ProductsAssignment.pdb
